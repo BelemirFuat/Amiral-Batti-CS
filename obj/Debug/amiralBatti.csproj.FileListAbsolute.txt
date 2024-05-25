@@ -1,0 +1,11 @@
+C:\Users\mtshbz\Documents\Projects\C#\amiralBatti\bin\Debug\amiralBatti.exe.config
+C:\Users\mtshbz\Documents\Projects\C#\amiralBatti\bin\Debug\amiralBatti.exe
+C:\Users\mtshbz\Documents\Projects\C#\amiralBatti\bin\Debug\amiralBatti.pdb
+C:\Users\mtshbz\Documents\Projects\C#\amiralBatti\obj\Debug\amiralBatti.csproj.AssemblyReference.cache
+C:\Users\mtshbz\Documents\Projects\C#\amiralBatti\obj\Debug\amiralBatti.Properties.Resources.resources
+C:\Users\mtshbz\Documents\Projects\C#\amiralBatti\obj\Debug\amiralBatti.csproj.GenerateResource.cache
+C:\Users\mtshbz\Documents\Projects\C#\amiralBatti\obj\Debug\amiralBatti.csproj.CoreCompileInputs.cache
+C:\Users\mtshbz\Documents\Projects\C#\amiralBatti\obj\Debug\amiralBatti.exe
+C:\Users\mtshbz\Documents\Projects\C#\amiralBatti\obj\Debug\amiralBatti.pdb
+C:\Users\mtshbz\Documents\Projects\C#\amiralBatti\obj\Debug\amiralBatti.Form1.resources
+C:\Users\mtshbz\Documents\Projects\C#\amiralBatti\obj\Debug\amiralBatti.Form2.resources

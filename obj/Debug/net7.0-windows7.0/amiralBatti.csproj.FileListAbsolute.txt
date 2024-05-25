@@ -1,0 +1,17 @@
+C:\Users\mtshbz\Documents\Projects\C#\amiralBatti\obj\Debug\net7.0-windows7.0\amiralBatti.Form1.resources
+C:\Users\mtshbz\Documents\Projects\C#\amiralBatti\obj\Debug\net7.0-windows7.0\amiralBatti.Properties.Resources.resources
+C:\Users\mtshbz\Documents\Projects\C#\amiralBatti\obj\Debug\net7.0-windows7.0\amiralBatti.csproj.GenerateResource.cache
+C:\Users\mtshbz\Documents\Projects\C#\amiralBatti\obj\Debug\net7.0-windows7.0\amiralBatti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mtshbz\Documents\Projects\C#\amiralBatti\obj\Debug\net7.0-windows7.0\amiralBatti.AssemblyInfoInputs.cache
+C:\Users\mtshbz\Documents\Projects\C#\amiralBatti\obj\Debug\net7.0-windows7.0\amiralBatti.AssemblyInfo.cs
+C:\Users\mtshbz\Documents\Projects\C#\amiralBatti\obj\Debug\net7.0-windows7.0\amiralBatti.csproj.CoreCompileInputs.cache
+C:\Users\mtshbz\Documents\Projects\C#\amiralBatti\bin\Debug\net7.0-windows7.0\amiralBatti.exe
+C:\Users\mtshbz\Documents\Projects\C#\amiralBatti\bin\Debug\net7.0-windows7.0\amiralBatti.deps.json
+C:\Users\mtshbz\Documents\Projects\C#\amiralBatti\bin\Debug\net7.0-windows7.0\amiralBatti.runtimeconfig.json
+C:\Users\mtshbz\Documents\Projects\C#\amiralBatti\bin\Debug\net7.0-windows7.0\amiralBatti.dll
+C:\Users\mtshbz\Documents\Projects\C#\amiralBatti\bin\Debug\net7.0-windows7.0\amiralBatti.pdb
+C:\Users\mtshbz\Documents\Projects\C#\amiralBatti\obj\Debug\net7.0-windows7.0\amiralBatti.dll
+C:\Users\mtshbz\Documents\Projects\C#\amiralBatti\obj\Debug\net7.0-windows7.0\refint\amiralBatti.dll
+C:\Users\mtshbz\Documents\Projects\C#\amiralBatti\obj\Debug\net7.0-windows7.0\amiralBatti.pdb
+C:\Users\mtshbz\Documents\Projects\C#\amiralBatti\obj\Debug\net7.0-windows7.0\amiralBatti.genruntimeconfig.cache
+C:\Users\mtshbz\Documents\Projects\C#\amiralBatti\obj\Debug\net7.0-windows7.0\ref\amiralBatti.dll

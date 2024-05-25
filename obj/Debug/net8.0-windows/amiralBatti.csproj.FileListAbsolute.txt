@@ -1,0 +1,17 @@
+C:\Users\mtshbz\Documents\Projects\C#\amiralBatti\obj\Debug\net8.0-windows\amiralBatti.Form1.resources
+C:\Users\mtshbz\Documents\Projects\C#\amiralBatti\obj\Debug\net8.0-windows\amiralBatti.Properties.Resources.resources
+C:\Users\mtshbz\Documents\Projects\C#\amiralBatti\obj\Debug\net8.0-windows\amiralBatti.csproj.GenerateResource.cache
+C:\Users\mtshbz\Documents\Projects\C#\amiralBatti\obj\Debug\net8.0-windows\amiralBatti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mtshbz\Documents\Projects\C#\amiralBatti\obj\Debug\net8.0-windows\amiralBatti.AssemblyInfoInputs.cache
+C:\Users\mtshbz\Documents\Projects\C#\amiralBatti\obj\Debug\net8.0-windows\amiralBatti.AssemblyInfo.cs
+C:\Users\mtshbz\Documents\Projects\C#\amiralBatti\obj\Debug\net8.0-windows\amiralBatti.csproj.CoreCompileInputs.cache
+C:\Users\mtshbz\Documents\Projects\C#\amiralBatti\bin\Debug\net8.0-windows\amiralBatti.exe
+C:\Users\mtshbz\Documents\Projects\C#\amiralBatti\bin\Debug\net8.0-windows\amiralBatti.deps.json
+C:\Users\mtshbz\Documents\Projects\C#\amiralBatti\bin\Debug\net8.0-windows\amiralBatti.runtimeconfig.json
+C:\Users\mtshbz\Documents\Projects\C#\amiralBatti\bin\Debug\net8.0-windows\amiralBatti.dll
+C:\Users\mtshbz\Documents\Projects\C#\amiralBatti\bin\Debug\net8.0-windows\amiralBatti.pdb
+C:\Users\mtshbz\Documents\Projects\C#\amiralBatti\obj\Debug\net8.0-windows\amiralBatti.dll
+C:\Users\mtshbz\Documents\Projects\C#\amiralBatti\obj\Debug\net8.0-windows\refint\amiralBatti.dll
+C:\Users\mtshbz\Documents\Projects\C#\amiralBatti\obj\Debug\net8.0-windows\amiralBatti.pdb
+C:\Users\mtshbz\Documents\Projects\C#\amiralBatti\obj\Debug\net8.0-windows\amiralBatti.genruntimeconfig.cache
+C:\Users\mtshbz\Documents\Projects\C#\amiralBatti\obj\Debug\net8.0-windows\ref\amiralBatti.dll
